@@ -1,0 +1,35 @@
+.topnav{
+    margin: 0px;
+    background-color: black;
+    height: 90px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+        
+ }
+ .heading{
+    margin: 0;
+    margin-top: 3;
+ }
+ img{
+    margin: 16;
+ }
+.UL{
+    padding: 0.5;
+  
+  
+}
+.OL{
+    padding: 0.5;
+
+}
+.h1{
+    margin-top: 1cm;
+}
+.butn{
+    background-color: black;
+    color: white;
+    margin-top: 1cm;
+    
+}
